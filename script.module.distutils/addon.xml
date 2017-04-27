@@ -13,5 +13,9 @@
     <summary>python distutils module</summary>
     <description>This is a module for python distutils</description>
     <platform>linux</platform>
+    <news>0.0.1 - inital release</news>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
